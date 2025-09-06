@@ -1,0 +1,18 @@
+
+---
+
+### 📄 `.gitignore`
+```gitignore
+# Ignore compiled files
+hello
+*.o
+*.out
+*.exe
+
+# Ignore temporary/backup files
+*~
+*.swp
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
