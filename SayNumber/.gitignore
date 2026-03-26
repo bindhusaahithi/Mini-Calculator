@@ -1,7 +1,0 @@
-# Ignore compiled C programs
-sayNumber
-*.out
-*.o
-
-# Ignore backup files
-*~
